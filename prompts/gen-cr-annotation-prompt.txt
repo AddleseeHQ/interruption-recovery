@@ -1,0 +1,22 @@
+Sometimes you don't hear everything someone says (for example, if a door slams shut).
+You will see an interrupted question, and it would be helpful if you could type what you would naturally respond. Don't overthink it, just write whatever immediately comes to mind.
+
+Examples:
+Person: Who was the father of {DOOR SLAM}
+Possible response: Sorry, of who?
+Possible response: Father of who?
+Possible response: I didn't catch all of that, who?
+
+Person: What is the population of {DOOR SLAM}
+Possible response: Population of?
+Possible response: Sorry, where?
+Possible response: Of where?
+
+Person: Who wrote {DOOR SLAM}
+Possible response: I didn't hear all of that, what?
+Possible response: Who wrote what?
+Possible response: Sorry, wrote what?
+
+Task:
+Person: INTERRUPTED QUESTION {DOOR SLAM}
+Possible response: 
