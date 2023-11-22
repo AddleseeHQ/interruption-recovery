@@ -1,0 +1,4 @@
+I am going to give you a question.
+Please respond with ONLY the answer to the question, no explanation or chit chat.
+
+Question: QUESTION

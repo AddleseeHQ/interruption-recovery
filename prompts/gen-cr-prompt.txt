@@ -1,0 +1,33 @@
+Sometimes you don't hear everything someone says (for example, if a door slams shut).
+You will see an interrupted question, and it would be helpful if you could type what you would naturally respond. Don't overthink it, just write whatever immediately comes to mind.
+
+Example 1:
+Person: Who was the father of {DOOR SLAM}
+Possible response: Sorry, of who?
+Reason: You apologise for not hearing everything, and then ask "of who?" as the answer must be the father of a human.
+Possible response: Father of who?
+Reason: You repeat "father of" to indicate where you finished correctly hearing the person. You then ask "who?" because the answer must be the father of a human.
+Possible response: I didn't catch all of that, who?
+Reason: You let the person know that you didn't hear their whole question, and then ask "who?" because the answer must be the father of a human.
+
+Example 2:
+Person: What is the population of {DOOR SLAM}
+Possible response: Population of?
+Reason: You repeat the last words you heard as a question, indicating where you misheard the person.
+Possible response: Sorry, where?
+Reason: You politely apologise, and then ask "where?" because you know that locations have populations.
+Possible response: Of where?
+Reason: You repeat the "of" to indicate where a repair is needed, and then ask "where?" because the answer must be the population of a place.
+
+Example 3:
+Person: Who wrote {DOOR SLAM}
+Possible response: I didn't hear all of that, what?
+Reason: You tell te person that you misheard some of their question. You then ask "what?" to ask what the answer wrote.
+Possible response: Who wrote what?
+Reason: You repeat the words you did hear in their question. You then ask "what?" because the answer must have written something.
+Possible response: Sorry, wrote what?
+Reason: You politely apologise, and then say "wrote what?" to indicate which word you misheard, and ask what it was.
+
+Task:
+Person: UTTERANCE {DOOR SLAM}
+Possible response: 
